@@ -63,6 +63,7 @@ namespace ACESERVER
             long Tick;
             tmr100 = 0;
             tmr256 = 0;
+            Database.DefineAdmin();
             WinsockAsync.Log("Servidor iniciado no dia " + DateTime.Now);
 
             do

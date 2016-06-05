@@ -155,7 +155,7 @@ namespace ACESERVER
         //public static string MOTD = "[Mapa] wes: açai";
         public const string MOTD = "Bem vindo aos primeiros testes de Wing Of Misadventure.";
         public const string NOTICE = "Bem vindos ao lançamento de Wing Of Misadventure, a equipe fica feliz em recebe-los em nosso mundo. Qualquer bug, reportem em nosso site.";
-        public const string MASTER_EMAIL = "allyson_198@hotmail.com";
+        public static string MASTER_EMAIL = "allyson_198@hotmail.com";
         //Versão atual do jogo
         public static string Client_Version = "0.8.0.1";
 

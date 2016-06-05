@@ -11,6 +11,15 @@ namespace ACESERVER
 {
     class Database
     {
+        public static void DefineAdmin()
+        {
+            StreamReader s = new StreamReader(AppDomain.CurrentDomain.BaseDirectory + "admin_email.txt");
+
+            string admin_mail = s.ReadToEnd();
+            Globals.MASTER_EMAIL = admin_mail;
+            Console.WriteLine("Status de administrador atribuído a conta com o email: " + admin_mail);
+            s.Close();
+        }
         public static void LogError(Exception e)
         {
             StreamWriter s = File.AppendText(AppDomain.CurrentDomain.BaseDirectory + "Log.txt");

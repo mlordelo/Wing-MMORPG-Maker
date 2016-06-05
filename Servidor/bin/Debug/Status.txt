@@ -16421,3 +16421,33 @@ A última atualização de recebimento aconteceu a 3304 ms
 A última atualização de conexão aconteceu a 3315 ms
 O último comando chamado no LOOP principal foi: 
 A última packet recebida foi: 
+Log do automático do servidor. Gerado na data 05/06/2016 15:24:39
+Existem 0 jogadores online.
+A última atualização de recebimento aconteceu a 275 ms
+A última atualização de conexão aconteceu a 295 ms
+O último comando chamado no LOOP principal foi: 
+A última packet recebida foi: 
+Log do automático do servidor. Gerado na data 05/06/2016 15:25:03
+Existem 0 jogadores online.
+A última atualização de recebimento aconteceu a 38 ms
+A última atualização de conexão aconteceu a 48 ms
+O último comando chamado no LOOP principal foi: TPP
+A última packet recebida foi: 
+Log do automático do servidor. Gerado na data 05/06/2016 15:28:19
+Existem 0 jogadores online.
+A última atualização de recebimento aconteceu a 34 ms
+A última atualização de conexão aconteceu a 47 ms
+O último comando chamado no LOOP principal foi: TPP
+A última packet recebida foi: 
+Log do automático do servidor. Gerado na data 05/06/2016 15:29:28
+Existem 0 jogadores online.
+A última atualização de recebimento aconteceu a 30 ms
+A última atualização de conexão aconteceu a 41 ms
+O último comando chamado no LOOP principal foi: TPP
+A última packet recebida foi: 
+Log do automático do servidor. Gerado na data 05/06/2016 15:29:48
+Existem 0 jogadores online.
+A última atualização de recebimento aconteceu a 40 ms
+A última atualização de conexão aconteceu a 49 ms
+O último comando chamado no LOOP principal foi: TPP
+A última packet recebida foi: 
