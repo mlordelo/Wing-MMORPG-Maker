@@ -3,6 +3,12 @@
 Wing MMORPG Maker é um trabalho baseado na possibilidade do **RPG Maker VX Ace**, e o ruby que se inclui nele. É basicamente uma CRIAÇÃO de toda uma estrutura que possibilita a existência de um MMO.
 
 
+## Programas úteis para realizar a edição
+-C# Visual Studio 2010 
+-C++ Visual Studio 2010
+-RPG Maker VX Ace
+
+
 ## Como funciona?
 
 Basicamente nele se inclui quatro coisas.
