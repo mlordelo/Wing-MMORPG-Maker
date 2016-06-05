@@ -1,0 +1,6 @@
+E:\MSDN\Samples\SendMail\SendMail\bin\Debug\SendMail.exe.config
+E:\MSDN\Samples\SendMail\SendMail\bin\Debug\SendMail.exe
+E:\MSDN\Samples\SendMail\SendMail\bin\Debug\SendMail.pdb
+E:\MSDN\Samples\SendMail\SendMail\obj\Debug\SendMail.csprojResolveAssemblyReference.cache
+E:\MSDN\Samples\SendMail\SendMail\obj\Debug\SendMail.exe
+E:\MSDN\Samples\SendMail\SendMail\obj\Debug\SendMail.pdb

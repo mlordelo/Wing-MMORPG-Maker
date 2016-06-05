@@ -1,0 +1,333 @@
+﻿[C] Relatório: Simp: undefined method `Sprite' for nil:NilClass Tec: ["{0151}:26:in `start'", "{0189}:51:in `main'", "{0019}:27:in `run'", "{0192}:22:in `block in <main>'", ":1:in `block in rgss_main'", ":1:in `loop'", ":1:in `rgss_main'", "{0192}:22:in `<main>'", "ruby:in `eval'"]
+[C] Relatório: Simp: undefined method `Sprite' for nil:NilClass Tec: ["{0151}:26:in `start'", "{0189}:51:in `main'", "{0019}:27:in `run'", "{0192}:22:in `block in <main>'", ":1:in `block in rgss_main'", ":1:in `loop'", ":1:in `rgss_main'", "{0192}:22:in `<main>'", "ruby:in `eval'"]
+[C] Relatório: Simp: undefined method `Sprite' for nil:NilClass Tec: ["{0151}:26:in `start'", "{0189}:51:in `main'", "{0019}:27:in `run'", "{0192}:22:in `block in <main>'", ":1:in `block in rgss_main'", ":1:in `loop'", ":1:in `rgss_main'", "{0192}:22:in `<main>'", "ruby:in `eval'"]
+[C] Relatório: Simp: undefined method `include?' for nil:NilClass Tec: ["{0160}:343:in `insert_text'", "{0084}:9:in `initialize'", "{0151}:11:in `new'", "{0151}:11:in `start'", "{0183}:51:in `main'", "{0019}:27:in `run'", "{0186}:18:in `block in <main>'", ":1:in `block in rgss_main'", ":1:in `loop'", ":1:in `rgss_main'", "{0186}:18:in `<main>'", "ruby:in `eval'"]
+[C] Relatório: Simp: undefined method `include?' for nil:NilClass Tec: ["{0160}:343:in `insert_text'", "{0084}:9:in `initialize'", "{0151}:11:in `new'", "{0151}:11:in `start'", "{0183}:51:in `main'", "{0019}:27:in `run'", "{0186}:18:in `block in <main>'", ":1:in `block in rgss_main'", ":1:in `loop'", ":1:in `rgss_main'", "{0186}:18:in `<main>'", "ruby:in `eval'"]
+[C] Relatório: Simp: undefined method `include?' for nil:NilClass Tec: ["{0160}:343:in `insert_text'", "{0084}:9:in `initialize'", "{0151}:11:in `new'", "{0151}:11:in `start'", "{0183}:51:in `main'", "{0019}:27:in `run'", "{0186}:18:in `block in <main>'", ":1:in `block in rgss_main'", ":1:in `loop'", ":1:in `rgss_main'", "{0186}:18:in `<main>'", "ruby:in `eval'"]
+[C] Relatório: Simp: undefined method `refresh' for nil:NilClass Tec: ["{0023}:1670:in `ReceiveTradeRequest'", "{0023}:2502:in `system_update'", "{0023}:2409:in `block in update'", "{0023}:2407:in `each'", "{0023}:2407:in `update'", "{0148}:42:in `update'", "{0148}:14:in `main'", "{0182}:335:in `main'", "{0019}:27:in `run'", "{0186}:18:in `block in <main>'", ":1:in `block in rgss_main'", ":1:in `loop'", ":1:in `rgss_main'", "{0186}:18:in `<main>'", "ruby:in `eval'"]
+[C] Relatório: Simp: undefined method `refresh' for nil:NilClass Tec: ["{0023}:1670:in `ReceiveTradeRequest'", "{0023}:2502:in `system_update'", "{0023}:2409:in `block in update'", "{0023}:2407:in `each'", "{0023}:2407:in `update'", "{0148}:42:in `update'", "{0148}:14:in `main'", "{0182}:335:in `main'", "{0019}:27:in `run'", "{0186}:18:in `block in <main>'", ":1:in `block in rgss_main'", ":1:in `loop'", ":1:in `rgss_main'", "{0186}:18:in `<main>'", "ruby:in `eval'"]
+[C] Relatório: Simp: undefined local variable or method `kok' for #<Scene_Title:0xa2f93c4> Tec: ["{0151}:25:in `start'", "{0189}:51:in `main'", "{0019}:27:in `run'", "{0192}:22:in `block in <main>'", ":1:in `block in rgss_main'", ":1:in `loop'", ":1:in `rgss_main'", "{0192}:22:in `<main>'", "ruby:in `eval'"]
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 867|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 867|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 867|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 867|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 867|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 867|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 867|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 867|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 867|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 867|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 867|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 867|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 867|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 867|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 867|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 867|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 867|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: O índice estava fora dos limites da matriz. [Origem: Ace Servidor]  Adicionais:    em ACESERVER.Server.Network.ReceiveData.ReceivedMessage(Int32 Index, String data) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\ReceiveData.cs:linha 930
+   em ACESERVER.Server.Network.ReceiveData.SelectPacket(Int32 Index, String data) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\ReceiveData.cs:linha 23
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 882|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: O índice estava fora dos limites da matriz. [Origem: Ace Servidor]  Adicionais:    em ACESERVER.Server.Network.ReceiveData.UseItemCheck(Int32 index, String data) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\ReceiveData.cs:linha 1061
+   em ACESERVER.Server.Network.ReceiveData.SelectPacket(Int32 Index, String data) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\ReceiveData.cs:linha 25
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 882|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Foi forçado o cancelamento de uma conexão existente pelo host remoto [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 869|
+[E] Erro: Não é possível acessar um objeto descartado.
+Nome do objeto: 'System.Net.Sockets.Socket'. [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode, AsyncCallback callback, Object state)
+   em System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 888|
+[E] Erro: Uma conexão estabelecida foi anulada pelo software no computador host [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 888|
+[E] Erro: Não é possível acessar um objeto descartado.
+Nome do objeto: 'System.Net.Sockets.Socket'. [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult, SocketError& errorCode)
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 868|
+[E] Erro: Não é possível acessar um objeto descartado.
+Nome do objeto: 'System.Net.Sockets.Socket'. [Origem: System]  Adicionais:    em System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode, AsyncCallback callback, Object state)
+   em System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   em ACESERVER.WinsockAsync.ReadCallback(IAsyncResult ar) na C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\Server\Network\WinsockAsync.cs:linha 888|
