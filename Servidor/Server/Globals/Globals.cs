@@ -23,8 +23,8 @@ namespace ACESERVER
         public const string InitialShield = "41;0";
         public const string InitialPet = "77;1;0";
         //chest basic
-        public string[] chest_1 = new string[2] { "2,2,1,0,0", "2,3,1,0,0", "2,4,1,0,0", "2,5,1,0,0", "2,6,1,0,0",
-        "2,7,1,0,0", "2,8,1,0,0", "2,9,1,0,0", "2,10,1,0,0", "2,11,1,0,0", "2,12,1,0,0", "2,13,1,0,0"};
+        //public string[] chest_1 = new string[2] { "2,2,1,0,0", "2,3,1,0,0", "2,4,1,0,0", "2,5,1,0,0", "2,6,1,0,0",
+        //"2,7,1,0,0", "2,8,1,0,0", "2,9,1,0,0", "2,10,1,0,0", "2,11,1,0,0", "2,12,1,0,0", "2,13,1,0,0"};
         //msg basic
         public const int Msg_Type_Server = 1;
         public const int Msg_Type_Global = 2;

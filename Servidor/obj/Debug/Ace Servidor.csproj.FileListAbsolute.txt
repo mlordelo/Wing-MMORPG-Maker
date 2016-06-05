@@ -54,3 +54,9 @@ C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadv
 C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\bin\Debug\Ace Servidor.exe
 C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\bin\Debug\Ace Servidor.pdb
 C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\obj\Debug\Ace Servidor.csprojResolveAssemblyReference.cache
+C:\Users\terabin\Desktop\Wing MMORPG Maker\Wing-MMORPG-Maker\Servidor\bin\Debug\Ace Servidor.exe.config
+C:\Users\terabin\Desktop\Wing MMORPG Maker\Wing-MMORPG-Maker\Servidor\obj\Debug\Ace Servidor.exe
+C:\Users\terabin\Desktop\Wing MMORPG Maker\Wing-MMORPG-Maker\Servidor\obj\Debug\Ace Servidor.pdb
+C:\Users\terabin\Desktop\Wing MMORPG Maker\Wing-MMORPG-Maker\Servidor\obj\Debug\Ace Servidor.csprojResolveAssemblyReference.cache
+C:\Users\terabin\Desktop\Wing MMORPG Maker\Wing-MMORPG-Maker\Servidor\bin\Debug\Ace Servidor.exe
+C:\Users\terabin\Desktop\Wing MMORPG Maker\Wing-MMORPG-Maker\Servidor\bin\Debug\Ace Servidor.pdb
