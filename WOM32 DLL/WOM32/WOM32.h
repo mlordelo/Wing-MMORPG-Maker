@@ -1,4 +1,4 @@
-//AUTORIA ALLYSON S. BACON
+//?
 #ifndef UNICODE
 #define UNICODE 1
 #endif
@@ -59,7 +59,7 @@ extern "C"
 	//RESULTADO FINAL
 	int iResult = 0;
 
-	//Resoluta玢o DNS
+	//Resoluta莽茫o DNS
     struct hostent        *he;
     
 	//RESOLVER DNS
@@ -103,7 +103,7 @@ extern "C"
     BOOL bOptVal = val;
     int bOptLen = sizeof (BOOL);
 
-	//ALTERAR CONFIGURA敲O
+	//ALTERAR CONFIGURA脟脙O
     iResult = setsockopt(sock, protocol, opt, (char *) &bOptVal, bOptLen);
 
 	//RETORNAR PROCESSO
@@ -370,7 +370,7 @@ bool MyDecryptFile(
     }
     else
     {
-		MessageBox(NULL, TEXT("Erro ao processar mem髍ia de destino. C骴igo 20"), TEXT("Erro"), 0);
+		MessageBox(NULL, TEXT("Erro ao processar mem贸ria de destino. C贸digo 20"), TEXT("Erro"), 0);
         goto Exit_MyDecryptFile;
     }
 
@@ -396,7 +396,7 @@ bool MyDecryptFile(
 				PROV_RSA_FULL, 
 				CRYPT_NEWKEYSET))
 			{
-				MessageBox(NULL, TEXT("Erro durante CryptAcquireContext. C骴igo 21"), TEXT("Erro"), 0);
+				MessageBox(NULL, TEXT("Erro durante CryptAcquireContext. C贸digo 21"), TEXT("Erro"), 0);
                 goto Exit_MyDecryptFile;
 			}
 		}
@@ -420,7 +420,7 @@ bool MyDecryptFile(
             &dwCount, 
             NULL))
         {
-			MessageBox(NULL, TEXT("Erro durante leitura de mem髍ia. C骴igo 22"), TEXT("Erro"), 0);
+			MessageBox(NULL, TEXT("Erro durante leitura de mem贸ria. C贸digo 22"), TEXT("Erro"), 0);
             goto Exit_MyDecryptFile;
         }
 
@@ -439,7 +439,7 @@ bool MyDecryptFile(
             &dwCount, 
             NULL))
         {
-			MessageBox(NULL, TEXT("Erro ao ler mem髍ia de origem. C骴igo 23"), TEXT("Erro"), 0);
+			MessageBox(NULL, TEXT("Erro ao ler mem贸ria de origem. C贸digo 23"), TEXT("Erro"), 0);
             goto Exit_MyDecryptFile;
         }
 
@@ -453,7 +453,7 @@ bool MyDecryptFile(
               0, 
               &hKey))
         {
-			MessageBox(NULL, TEXT("Erro durante CryptImportKey. C骴igo 24"), TEXT("Erro"), 0);
+			MessageBox(NULL, TEXT("Erro durante CryptImportKey. C贸digo 24"), TEXT("Erro"), 0);
             goto Exit_MyDecryptFile;
         }
 
@@ -477,7 +477,7 @@ bool MyDecryptFile(
                0, 
                &hHash))
         {
-			MessageBox(NULL, TEXT("Erro durante CryptCreateHash. C骴igo 25"), TEXT("Erro"), 0);
+			MessageBox(NULL, TEXT("Erro durante CryptCreateHash. C贸digo 25"), TEXT("Erro"), 0);
             goto Exit_MyDecryptFile;
         }
         
@@ -489,7 +489,7 @@ bool MyDecryptFile(
                lstrlen(pszPassword), 
                0)) 
         {
-			MessageBox(NULL, TEXT("Erro durante CryptHashData. C骴igo 26"), TEXT("Erro"), 0);
+			MessageBox(NULL, TEXT("Erro durante CryptHashData. C贸digo 26"), TEXT("Erro"), 0);
             goto Exit_MyDecryptFile;
         }
     
@@ -502,7 +502,7 @@ bool MyDecryptFile(
               KEYLENGTH, 
               &hKey))
         { 
-			MessageBox(NULL, TEXT("Erro durante CryptDeriveKey. C骴igo 27"), TEXT("Erro"), 0);
+			MessageBox(NULL, TEXT("Erro durante CryptDeriveKey. C贸digo 27"), TEXT("Erro"), 0);
             goto Exit_MyDecryptFile;
         }
     }
@@ -524,7 +524,7 @@ bool MyDecryptFile(
     // Allocate memory for the file read buffer. 
     if(!(pbBuffer = (PBYTE)malloc(dwBufferLen)))
     {
-	   MessageBox(NULL, TEXT("Erro ao alocar mem髍ia. C骴igo 28"), TEXT("Erro"), 0);
+	   MessageBox(NULL, TEXT("Erro ao alocar mem贸ria. C贸digo 28"), TEXT("Erro"), 0);
        goto Exit_MyDecryptFile;
     }
     
@@ -542,7 +542,7 @@ bool MyDecryptFile(
             &dwCount, 
             NULL))
         {
-			MessageBox(NULL, TEXT("Erro ao processar mem髍ia de origem. C骴igo 29"), TEXT("Erro"), 0);;
+			MessageBox(NULL, TEXT("Erro ao processar mem贸ria de origem. C贸digo 29"), TEXT("Erro"), 0);;
             goto Exit_MyDecryptFile;
         }
 
@@ -561,7 +561,7 @@ bool MyDecryptFile(
               pbBuffer, 
               &dwCount))
         {
-			MessageBox(NULL, TEXT("Erro durante CryptDecrypt. C骴igo 30"), TEXT("Erro"), 0);
+			MessageBox(NULL, TEXT("Erro durante CryptDecrypt. C贸digo 30"), TEXT("Erro"), 0);
             goto Exit_MyDecryptFile;
         }
 
@@ -574,7 +574,7 @@ bool MyDecryptFile(
             &dwCount,
             NULL))
         { 
-			MessageBox(NULL, TEXT("Erro ao criar mem髍ia virtual. C骴igo 31"), TEXT("Erro"), 0);
+			MessageBox(NULL, TEXT("Erro ao criar mem贸ria virtual. C贸digo 31"), TEXT("Erro"), 0);
             goto Exit_MyDecryptFile;
         }
 
@@ -613,7 +613,7 @@ Exit_MyDecryptFile:
     {
         if(!(CryptDestroyHash(hHash)))
         {
-			MessageBox(NULL, TEXT("Erro ao liberar mem髍ia. C骴igo 33"), TEXT("Erro"), 0);
+			MessageBox(NULL, TEXT("Erro ao liberar mem贸ria. C贸digo 33"), TEXT("Erro"), 0);
         }
 
         hHash = NULL;
@@ -625,7 +625,7 @@ Exit_MyDecryptFile:
     {
         if(!(CryptDestroyKey(hKey)))
         {
-			MessageBox(NULL, TEXT("Erro ao liberar mem髍ia. C骴igo 32"), TEXT("Erro"), 0);
+			MessageBox(NULL, TEXT("Erro ao liberar mem贸ria. C贸digo 32"), TEXT("Erro"), 0);
         }
     } 
 
@@ -635,7 +635,7 @@ Exit_MyDecryptFile:
     {
         if(!(CryptReleaseContext(hCryptProv, 0)))
         {
-			MessageBox(NULL, TEXT("Erro durante CryptReleaseContext. C骴igo 31"), TEXT("Erro"), 0);
+			MessageBox(NULL, TEXT("Erro durante CryptReleaseContext. C贸digo 31"), TEXT("Erro"), 0);
         }
     } 
 
@@ -691,7 +691,7 @@ bool MyEncryptFile(
     }
     else
     { 
-        	MessageBox(NULL, TEXT("Erro ao abrir mem髍ia plana. C骴igo: 2"), TEXT("Erro"), 0);
+        	MessageBox(NULL, TEXT("Erro ao abrir mem贸ria plana. C贸digo: 2"), TEXT("Erro"), 0);
         goto Exit_MyEncryptFile;
     } 
 
@@ -710,7 +710,7 @@ bool MyEncryptFile(
     }
     else
     {
-        MessageBox(NULL, TEXT("Erro ao encontrar refer阯cia de mem髍ia. C骴igo: 3"), TEXT("Erro"), 0);
+        MessageBox(NULL, TEXT("Erro ao encontrar refer锚ncia de mem贸ria. C贸digo: 3"), TEXT("Erro"), 0);
         goto Exit_MyEncryptFile;
     }
 
@@ -735,7 +735,7 @@ bool MyEncryptFile(
 				PROV_RSA_FULL, 
 				CRYPT_NEWKEYSET))
 			{
-				MessageBox(NULL, TEXT("Erro durante CryptAcquireContext. C骴igo 4"), TEXT("Erro"), 0);
+				MessageBox(NULL, TEXT("Erro durante CryptAcquireContext. C贸digo 4"), TEXT("Erro"), 0);
 				goto Exit_MyEncryptFile;
 			}
 		}
@@ -762,7 +762,7 @@ bool MyEncryptFile(
         } 
         else
         {
-            	MessageBox(NULL, TEXT("Erro durante CryptGenKey: C骴igo 5"), TEXT("Erro"), 0);
+            	MessageBox(NULL, TEXT("Erro durante CryptGenKey: C贸digo 5"), TEXT("Erro"), 0);
             goto Exit_MyEncryptFile;
         }
 
@@ -786,13 +786,13 @@ bool MyEncryptFile(
                     CRYPT_EXPORTABLE, 
                     &hXchgKey))
                 {
-                    	MessageBox(NULL, TEXT("Falha ao criar chave virtual. C骴igo 6"), TEXT("Erro"), 0);
+                    	MessageBox(NULL, TEXT("Falha ao criar chave virtual. C贸digo 6"), TEXT("Erro"), 0);
                     goto Exit_MyEncryptFile;
                 }
             }
             else
             {
-                	MessageBox(NULL, TEXT("Chave virtual indispon韛el. C骴igo 6.1"), TEXT("Erro"), 0);
+                	MessageBox(NULL, TEXT("Chave virtual indispon铆vel. C贸digo 6.1"), TEXT("Erro"), 0);
                 goto Exit_MyEncryptFile;
             }
         }
@@ -810,7 +810,7 @@ bool MyEncryptFile(
         }
         else
         {  
-            	MessageBox(NULL, TEXT("Erro ao computar dist鈔cia Blob ;D. C骴igo 7"), TEXT("Erro"), 0);
+            	MessageBox(NULL, TEXT("Erro ao computar dist芒ncia Blob ;D. C贸digo 7"), TEXT("Erro"), 0);
             goto Exit_MyEncryptFile;
         }
 
@@ -820,7 +820,7 @@ bool MyEncryptFile(
         }
         else
         { 
-           	MessageBox(NULL, TEXT("Falta de mem髍ia para execu玢o. C骴igo 7.1"), TEXT("Erro"), 0); 
+           	MessageBox(NULL, TEXT("Falta de mem贸ria para execu莽茫o. C贸digo 7.1"), TEXT("Erro"), 0); 
             goto Exit_MyEncryptFile;
         }
 
@@ -838,7 +838,7 @@ bool MyEncryptFile(
         } 
         else
         {
-            MessageBox(NULL, TEXT("Erro durante CryptExportKey. C骴igo 8"), TEXT("Erro"), 0);
+            MessageBox(NULL, TEXT("Erro durante CryptExportKey. C贸digo 8"), TEXT("Erro"), 0);
             goto Exit_MyEncryptFile;
         } 
          
@@ -848,7 +848,7 @@ bool MyEncryptFile(
         {
             if(!(CryptDestroyKey(hXchgKey)))
             {
-                MessageBox(NULL, TEXT("Falha ao liberar espa鏾. C骴igo 9"), TEXT("Erro"), 0); 
+                MessageBox(NULL, TEXT("Falha ao liberar espa莽o. C贸digo 9"), TEXT("Erro"), 0); 
                 goto Exit_MyEncryptFile;
             }
       
@@ -864,7 +864,7 @@ bool MyEncryptFile(
             &dwCount,
             NULL))
         { 
-           	MessageBox(NULL, TEXT("Falha ao tentar criar mem髍ia. C骴igo: 1"), TEXT("Erro"), 0);
+           	MessageBox(NULL, TEXT("Falha ao tentar criar mem贸ria. C贸digo: 1"), TEXT("Erro"), 0);
             goto Exit_MyEncryptFile;
         }
         else
@@ -880,7 +880,7 @@ bool MyEncryptFile(
             &dwCount,
             NULL))
         { 
-           	MessageBox(NULL, TEXT("Falha ao tentar criar mem髍ia. C骴igo: 1.1"), TEXT("Erro"), 0);
+           	MessageBox(NULL, TEXT("Falha ao tentar criar mem贸ria. C贸digo: 1.1"), TEXT("Erro"), 0);
             goto Exit_MyEncryptFile;
         }
         else
@@ -914,7 +914,7 @@ bool MyEncryptFile(
         }
         else
         { 
-            MessageBox(NULL, TEXT("Erro durante CryptCreateHash. C骴igo 10"), TEXT("Erro"), 0);
+            MessageBox(NULL, TEXT("Erro durante CryptCreateHash. C贸digo 10"), TEXT("Erro"), 0);
             goto Exit_MyEncryptFile;
         }  
 
@@ -930,7 +930,7 @@ bool MyEncryptFile(
         }
         else
         {
-            MessageBox(NULL, TEXT("Erro durante CryptHashData. C骴igo 11"), TEXT("Erro"), 0);
+            MessageBox(NULL, TEXT("Erro durante CryptHashData. C贸digo 11"), TEXT("Erro"), 0);
         }
 
         //-----------------------------------------------------------
@@ -946,7 +946,7 @@ bool MyEncryptFile(
         }
         else
         {
-            MessageBox(NULL, TEXT("Erro durante CryptDeriveKey. C骴igo 12"), TEXT("Erro"), 0);
+            MessageBox(NULL, TEXT("Erro durante CryptDeriveKey. C贸digo 12"), TEXT("Erro"), 0);
             goto Exit_MyEncryptFile;
         }
     } 
@@ -981,7 +981,7 @@ bool MyEncryptFile(
     }
     else
     { 
-        MessageBox(NULL, TEXT("Falta de mem髍ia, imposs韛el continuar. C骴igo 13"), TEXT("Erro"), 0);
+        MessageBox(NULL, TEXT("Falta de mem贸ria, imposs铆vel continuar. C贸digo 13"), TEXT("Erro"), 0);
         goto Exit_MyEncryptFile;
     }
 
@@ -1000,7 +1000,7 @@ bool MyEncryptFile(
             &dwCount, 
             NULL))
         {
-           MessageBox(NULL, TEXT("Erro ao ler processar mem髍ia plana. C骴igo 14"), TEXT("Erro"), 0);
+           MessageBox(NULL, TEXT("Erro ao ler processar mem贸ria plana. C贸digo 14"), TEXT("Erro"), 0);
         }
 
         if(dwCount < dwBlockLen)
@@ -1019,7 +1019,7 @@ bool MyEncryptFile(
             &dwCount, 
             dwBufferLen))
         { 
-            MessageBox(NULL, TEXT("Erro durante CryptEncrypt. C骴igo 15"), TEXT("Erro"), 0);
+            MessageBox(NULL, TEXT("Erro durante CryptEncrypt. C贸digo 15"), TEXT("Erro"), 0);
             goto Exit_MyEncryptFile;
         } 
 
@@ -1032,7 +1032,7 @@ bool MyEncryptFile(
             &dwCount,
             NULL))
         { 
-            MessageBox(NULL, TEXT("Erro ao criar CipherText. C骴igo 16"), TEXT("Erro"), 0);
+            MessageBox(NULL, TEXT("Erro ao criar CipherText. C贸digo 16"), TEXT("Erro"), 0);
             goto Exit_MyEncryptFile;
         }
 
@@ -1071,7 +1071,7 @@ Exit_MyEncryptFile:
     {
         if(!(CryptDestroyHash(hHash)))
         {
-            	MessageBox(NULL, TEXT("Erro durante CryptDestroyHash. C骴igo 17"), TEXT("Erro"), 0);
+            	MessageBox(NULL, TEXT("Erro durante CryptDestroyHash. C贸digo 17"), TEXT("Erro"), 0);
         }
 
         hHash = NULL;
@@ -1083,7 +1083,7 @@ Exit_MyEncryptFile:
     {
         if(!(CryptDestroyKey(hKey)))
         {
-	       MessageBox(NULL, TEXT("Erro durante CryptDestroyKey. C骴igo 18"), TEXT("Erro"), 0);
+	       MessageBox(NULL, TEXT("Erro durante CryptDestroyKey. C贸digo 18"), TEXT("Erro"), 0);
         }
     }
 
@@ -1093,7 +1093,7 @@ Exit_MyEncryptFile:
     {
         if(!(CryptReleaseContext(hCryptProv, 0)))
         {
-		    MessageBox(NULL, TEXT("Erro durante CryptReleaseContext. C骴igo 19"), TEXT("Erro"), 0);
+		    MessageBox(NULL, TEXT("Erro durante CryptReleaseContext. C贸digo 19"), TEXT("Erro"), 0);
         }
     }
     
