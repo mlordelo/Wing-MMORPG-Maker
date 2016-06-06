@@ -17,8 +17,8 @@
         public const string pWndClassName = "RGSS Player";
 
         public const string pDefaultLibrary = "RGSS301.dll";
-        public const string pDefaultTitle = "Wing Of Misadventure";
-        public const string pDefaultScripts = "Parse\\parsecached.wingofdev";
+        public const string pDefaultTitle = "Wing MMORPG Maker RGSS3";
+        public const string pDefaultScripts = "Data\\Scripts.rvdata2";
         public const string pDefaultRTP = "\\Game.ini";
 
         public const int nScreenWidth = 544;
@@ -81,15 +81,14 @@
                     ShowConsoleWindow();
                     RGSSPlayer Window = new RGSSPlayer(Defaults.pWndClassName);
                 }
-                if (Args[0] == "updater")
+                else
                 {
                     RGSSPlayer Window = new RGSSPlayer(Defaults.pWndClassName);
                 }
-
             }
             else
             {
-                return;
+                RGSSPlayer Window = new RGSSPlayer(Defaults.pWndClassName);
             }
         }
         public static void ShowConsoleWindow()
@@ -449,8 +448,8 @@
            RGSS.Eval(String.Format("WriterLock = {0}\nWriteBuffer = {1}\n", RPort.Lock.ToString(), RPort.Buffer.ToString()));
            RGSS.Eval(String.Format("ReaderLock = {0}\nReaderBuffer = {1}\n", WPort.Lock.ToString(), WPort.Buffer.ToString()));
 
-           byte[] charb = new byte[8];
-           Defaults.DecryptFile(AppDomain.CurrentDomain.BaseDirectory + "Parse\\parse.wingofdev", AppDomain.CurrentDomain.BaseDirectory + "Parse\\parsecached.wingofdev", "0011011W");
+           //byte[] charb = new byte[8];
+           //Defaults.DecryptFile(AppDomain.CurrentDomain.BaseDirectory + "Parse\\parse.wingofdev", AppDomain.CurrentDomain.BaseDirectory + "Parse\\parsecached.wingofdev", "0011011W");
            
            RGSS.GameMain(m_hwnd, Defaults.pDefaultScripts, "\0\0\0\0");
         }

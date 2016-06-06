@@ -22,3 +22,9 @@ A última atualização de recebimento aconteceu a 18 ms
 A última atualização de conexão aconteceu a 24 ms
 O último comando chamado no LOOP principal foi: TPP
 A última packet recebida foi: 
+Log do automático do servidor. Gerado na data 06/06/2016 19:37:52
+Existem 0 jogadores online.
+A última atualização de recebimento aconteceu a 31 ms
+A última atualização de conexão aconteceu a 45 ms
+O último comando chamado no LOOP principal foi: TPP
+A última packet recebida foi: 

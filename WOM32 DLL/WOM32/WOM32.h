@@ -33,7 +33,7 @@ extern "C"
   int __declspec(dllexport) womsocket(int family, int type, int protocol)
   {
 	char const *rgss = "RGSS Player";
-	char const *wing = "Wing Of Misadventure";
+	char const *wing = "Wing MMORPG Maker RGSS3";
 
 	HWND hwnds = FindWindowA(rgss, wing); 
 
@@ -51,7 +51,7 @@ extern "C"
   int __declspec(dllexport) womconnect(SOCKET sock, char *ip, int port)
   {
 	char const *rgss = "RGSS Player";
-	char const *wing = "Wing Of Misadventure";
+	char const *wing = "Wing MMORPG Maker RGSS3";
 
 	HWND hwnds = FindWindowA(rgss, wing); 
     if (hwnds == NULL) { return 1; }
@@ -91,7 +91,7 @@ extern "C"
   int __declspec(dllexport) womsockopt(SOCKET sock, int protocol, int opt, bool val, int size)
   {
 	char const *rgss = "RGSS Player";
-	char const *wing = "Wing Of Misadventure";
+	char const *wing = "Wing MMORPG Maker RGSS3";
 
 	HWND hwnds = FindWindowA(rgss, wing); 
     if (hwnds == NULL) { return 1; }
@@ -161,7 +161,7 @@ extern "C"
   HWND __declspec(dllexport) womwindow()
   {
 	char const *rgss = "RGSS Player";
-	char const *wing = "Wing Of Misadventure";
+	char const *wing = "Wing MMORPG Maker RGSS3";
 
 
 	//RECEBER DADOS
