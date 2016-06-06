@@ -13,7 +13,7 @@ namespace ACESERVER
     {
         public static string GET_SMTP_USER()
         {
-            StreamReader s = new StreamReader(AppDomain.CurrentDomain.BaseDirectory + "smtp_user.txt");
+            StreamReader s = new StreamReader(AppDomain.CurrentDomain.BaseDirectory + "\\Config\\smtp_user.txt");
 
             string smtp_user = s.ReadToEnd();
             s.Close();
@@ -21,7 +21,7 @@ namespace ACESERVER
         }
         public static string GET_SMTP_PASS()
         {
-            StreamReader s = new StreamReader(AppDomain.CurrentDomain.BaseDirectory + "smtp_pass.txt");
+            StreamReader s = new StreamReader(AppDomain.CurrentDomain.BaseDirectory + "\\Config\\smtp_pass.txt");
 
             string smtp_pass = s.ReadToEnd();
             s.Close();
@@ -29,7 +29,7 @@ namespace ACESERVER
         }
         public static string GET_GAME_NAME()
         {
-            StreamReader s = new StreamReader(AppDomain.CurrentDomain.BaseDirectory + "game_name.txt");
+            StreamReader s = new StreamReader(AppDomain.CurrentDomain.BaseDirectory + "\\Config\\game_name.txt");
 
             string game_name = s.ReadToEnd();
             s.Close();
@@ -37,7 +37,7 @@ namespace ACESERVER
         }
         public static string GET_MOTD()
         {
-            StreamReader s = new StreamReader(AppDomain.CurrentDomain.BaseDirectory + "motd.txt");
+            StreamReader s = new StreamReader(AppDomain.CurrentDomain.BaseDirectory + "\\Config\\motd.txt");
 
             string motd = s.ReadToEnd();
             s.Close();
@@ -45,7 +45,7 @@ namespace ACESERVER
         }
         public static string GET_NOTICE()
         {
-            StreamReader s = new StreamReader(AppDomain.CurrentDomain.BaseDirectory + "notice.txt");
+            StreamReader s = new StreamReader(AppDomain.CurrentDomain.BaseDirectory + "\\Config\\notice.txt");
 
             string notice = s.ReadToEnd();
             s.Close();
@@ -53,7 +53,7 @@ namespace ACESERVER
         }
         public static void DefineAdmin()
         {
-            StreamReader s = new StreamReader(AppDomain.CurrentDomain.BaseDirectory + "admin_mail.txt");
+            StreamReader s = new StreamReader(AppDomain.CurrentDomain.BaseDirectory + "\\Config\\admin_mail.txt");
 
             string admin_mail = s.ReadToEnd();
             Globals.MASTER_EMAIL = admin_mail;

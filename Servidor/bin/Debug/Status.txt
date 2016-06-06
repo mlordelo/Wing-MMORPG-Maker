@@ -1,1 +1,6 @@
-﻿
+﻿Log do automático do servidor. Gerado na data 06/06/2016 19:10:17
+Existem 0 jogadores online.
+A última atualização de recebimento aconteceu a 21 ms
+A última atualização de conexão aconteceu a 28 ms
+O último comando chamado no LOOP principal foi: NPC RESPAWN
+A última packet recebida foi: 
