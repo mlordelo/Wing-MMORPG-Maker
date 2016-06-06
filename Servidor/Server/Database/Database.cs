@@ -11,6 +11,14 @@ namespace ACESERVER
 {
     class Database
     {
+        public static string GET_SMTP_SERVER()
+        {
+            StreamReader s = new StreamReader(AppDomain.CurrentDomain.BaseDirectory + "\\Config\\smtp_server.txt");
+
+            string smtp_server = s.ReadToEnd();
+            s.Close();
+            return smtp_server;
+        }
         public static string GET_SMTP_USER()
         {
             StreamReader s = new StreamReader(AppDomain.CurrentDomain.BaseDirectory + "\\Config\\smtp_user.txt");

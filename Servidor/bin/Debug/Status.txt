@@ -4,3 +4,21 @@ A última atualização de recebimento aconteceu a 21 ms
 A última atualização de conexão aconteceu a 28 ms
 O último comando chamado no LOOP principal foi: NPC RESPAWN
 A última packet recebida foi: 
+Log do automático do servidor. Gerado na data 06/06/2016 19:20:43
+Existem 0 jogadores online.
+A última atualização de recebimento aconteceu a 95 ms
+A última atualização de conexão aconteceu a 101 ms
+O último comando chamado no LOOP principal foi: TPP
+A última packet recebida foi: 
+Log do automático do servidor. Gerado na data 06/06/2016 19:22:09
+Existem 0 jogadores online.
+A última atualização de recebimento aconteceu a 32 ms
+A última atualização de conexão aconteceu a 38 ms
+O último comando chamado no LOOP principal foi: TPP
+A última packet recebida foi: 
+Log do automático do servidor. Gerado na data 06/06/2016 19:23:08
+Existem 0 jogadores online.
+A última atualização de recebimento aconteceu a 18 ms
+A última atualização de conexão aconteceu a 24 ms
+O último comando chamado no LOOP principal foi: TPP
+A última packet recebida foi: 

@@ -157,6 +157,7 @@ namespace ACESERVER
         public static string MOTD = Database.GET_MOTD();
         public static string NOTICE = Database.GET_NOTICE();
         //MAIL
+        public static string SMTP_SERVER = Database.GET_SMTP_SERVER();
         public static string SMTP_USER = Database.GET_SMTP_USER();
         public static string SMTP_PASS = Database.GET_SMTP_PASS();
         //MASTER

@@ -17,7 +17,7 @@ namespace ACESERVER
         public static void Send_ActivationCode(int index, string email)
         {
             //Define os dados do e-mail
-            string nomeRemetente = "Allyson Bacon";
+            string nomeRemetente = Globals.GAME_NAME;
             string emailRemetente = Globals.SMTP_USER;
 
             Console.WriteLine("Enviado para" + email);
@@ -75,7 +75,7 @@ namespace ACESERVER
             objEmail.SubjectEncoding = System.Text.Encoding.GetEncoding("ISO-8859-1");
             objEmail.BodyEncoding = System.Text.Encoding.GetEncoding("ISO-8859-1");
 
-            SmtpClient SmtpServer = new SmtpClient("smtp.gmail.com");
+            SmtpClient SmtpServer = new SmtpClient(Globals.SMTP_SERVER);
             SmtpServer.Port = 587;
             SmtpServer.UseDefaultCredentials = false;
             SmtpServer.Credentials = new System.Net.NetworkCredential(Globals.SMTP_USER, Globals.SMTP_PASS);
@@ -184,7 +184,7 @@ namespace ACESERVER
             //objEmail.Attachments.Add(anexo);
 
 
-            SmtpClient SmtpServer = new SmtpClient("smtp.gmail.com");
+            SmtpClient SmtpServer = new SmtpClient(Globals.SMTP_SERVER);
             SmtpServer.Port = 587;
             SmtpServer.UseDefaultCredentials = false;
             SmtpServer.Credentials = new System.Net.NetworkCredential(Globals.SMTP_USER, Globals.SMTP_PASS);
