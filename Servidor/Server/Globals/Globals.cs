@@ -153,8 +153,13 @@ namespace ACESERVER
         //Shop
         public const int Shop_W = 7;
         //public static string MOTD = "[Mapa] wes: açai";
-        public const string MOTD = "Bem vindo aos primeiros testes de Wing Of Misadventure.";
-        public const string NOTICE = "Bem vindos ao lançamento de Wing Of Misadventure, a equipe fica feliz em recebe-los em nosso mundo. Qualquer bug, reportem em nosso site.";
+        public static string GAME_NAME = Database.GET_GAME_NAME();
+        public static string MOTD = Database.GET_MOTD();
+        public static string NOTICE = Database.GET_NOTICE();
+        //MAIL
+        public static string SMTP_USER = Database.GET_SMTP_USER();
+        public static string SMTP_PASS = Database.GET_SMTP_PASS();
+        //MASTER
         public static string MASTER_EMAIL = "allyson_198@hotmail.com";
         //Versão atual do jogo
         public static string Client_Version = "0.8.0.1";

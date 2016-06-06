@@ -38,7 +38,7 @@ namespace ACESERVER
         // Thread signal.
         public static ManualResetEvent allDone = new ManualResetEvent(false);
         public static Random rdn;
-        public static string Motd = "Bem vindo a Wing Of Misadventure!";
+        public static string Motd = "Bem vindo a " + Globals.GAME_NAME + "!";
         public static string[] connected = new string[] { };
         //public void Send(Socket sck, string message, Encoding encoding);
         static ConsoleEventDelegate event_handler;   // Keeps it from getting garbage collected
@@ -655,7 +655,7 @@ namespace ACESERVER
             Log("");
             Log("Iniciando Loop do servidor...");
             Log("Iniciando conexão TCP/IP...");
-
+            Log(Globals.SMTP_USER);
             //Lidar com fechamento
             event_handler = new ConsoleEventDelegate(ConsoleEventCallback);
             SetConsoleCtrlHandler(event_handler, true);

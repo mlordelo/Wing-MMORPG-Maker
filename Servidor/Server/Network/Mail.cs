@@ -18,7 +18,7 @@ namespace ACESERVER
         {
             //Define os dados do e-mail
             string nomeRemetente = "Allyson Bacon";
-            string emailRemetente = "wingofmisadventure@gmail.com";
+            string emailRemetente = Globals.SMTP_USER;
 
             Console.WriteLine("Enviado para" + email);
 
@@ -26,7 +26,7 @@ namespace ACESERVER
             string emailComCopia = email;
             string emailComCopiaOculta = email;
 
-            string assuntoMensagem = "Wing Of Misadventure - Código de confirmação";
+            string assuntoMensagem = Globals.GAME_NAME + " - Código de confirmação";
 
             int code = Globals.Rand(1000, 9999);
 
@@ -78,7 +78,7 @@ namespace ACESERVER
             SmtpClient SmtpServer = new SmtpClient("smtp.gmail.com");
             SmtpServer.Port = 587;
             SmtpServer.UseDefaultCredentials = false;
-            SmtpServer.Credentials = new System.Net.NetworkCredential("wingofmisadventure@gmail.com", "organum18");
+            SmtpServer.Credentials = new System.Net.NetworkCredential(Globals.SMTP_USER, Globals.SMTP_PASS);
             SmtpServer.EnableSsl = true;
 
 
@@ -128,14 +128,14 @@ namespace ACESERVER
             }
 
             //Define os dados do e-mail
-            string nomeRemetente = "Wing Of Misadventure";
-            string emailRemetente = "wingofmisadventure@gmail.com";
+            string nomeRemetente = Globals.GAME_NAME;
+            string emailRemetente = Globals.SMTP_USER;
 
             string emailDestinatario = email;
             string emailComCopia = email;
             string emailComCopiaOculta = email;
 
-            string assuntoMensagem = "Wing Of Misadventure - Recuperação de conta";
+            string assuntoMensagem = Globals.GAME_NAME + " - Recuperação de conta";
             string conteudoMensagem = "Email: " + email + " Login: " + user + " Senha: " + password ;
 
             //Cria objeto com dados do e-mail.
@@ -187,7 +187,7 @@ namespace ACESERVER
             SmtpClient SmtpServer = new SmtpClient("smtp.gmail.com");
             SmtpServer.Port = 587;
             SmtpServer.UseDefaultCredentials = false;
-            SmtpServer.Credentials = new System.Net.NetworkCredential("wingofmisadventure@gmail.com", "organum18");
+            SmtpServer.Credentials = new System.Net.NetworkCredential(Globals.SMTP_USER, Globals.SMTP_PASS);
             SmtpServer.EnableSsl = true;
 
 
